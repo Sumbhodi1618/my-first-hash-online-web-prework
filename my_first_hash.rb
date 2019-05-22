@@ -1,5 +1,5 @@
-my_hash = {"Weapon" => "Dolphin Ballon"}
-
+def my_hash = {"Weapon" => "Dolphin Ballon"}
+end
 
 
 def shipping_manifest = {"whale bone corsets"=>"5",
